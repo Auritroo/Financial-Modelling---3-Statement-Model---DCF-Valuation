@@ -35,7 +35,7 @@ Workbook Structure (6 Sheets)
 |-------|---------|
 | 🔵 Blue text | Hardcoded inputs (assumptions only) |
 | ⚫ Black text | All formula-driven calculations |
-| 🟡 Yellow background | Key assumption cells requiring attention |
+| 🟡 Yellow background | Key assumption cells requiring attention/calculation |
 
 ---
 
